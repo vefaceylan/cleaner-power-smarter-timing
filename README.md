@@ -20,7 +20,10 @@ In this project, I looked at how clean electricity is in Denmark and whether usi
 
 ## Tools
 
-Python, pandas, Matplotlib, Google Colab
+Python, pandas, Matplotlib, Google Colab, Tableau
+
+I also rebuilt the heatmap on Tableau to practise using a BI tool. 
+[You can view it here:](https://public.tableau.com/app/profile/vefa.ceylan/viz/CleanerPowerSmarterTiming/Heatmap)
 
 ## Data
 
